@@ -9,7 +9,9 @@ Gold price prediction can be invaluable for investors and financial analysts. Th
 Features
 
 Data Preprocessing: Data cleaning and transformation for optimal feature extraction.
+
 Model Selection: Comparison of models including linear regression, decision trees, and random forests.
+
 Evaluation Metrics: Analysis using Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² to ensure accuracy.
 
 
